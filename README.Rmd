@@ -1,0 +1,15 @@
+---
+title: "README"
+author: "Göknur Giner"
+date: "28/10/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# R-Shiny Tricks or Treats, Maybe Both?
+
+Presented by [Goknur Giner](https://twitter.com/goknurginer)
